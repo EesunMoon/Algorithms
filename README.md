@@ -21,4 +21,9 @@
 | 13 | [최소신장트리(Minimum Spanning Tree)](https://github.com/MoonEeSun/Algorithms/tree/main/practice/13_minimum_spanning_tree) - Prim jarnik/Kruskal 알고리즘  |
 | 14 | [최단경로(Shortest Path)](https://github.com/MoonEeSun/Algorithms/tree/main/practice/14_shortest_path) - 무방향/방향 가중 그래프에서의 최단거리  |
 
-## Semi-Project
+## Semester Project
+* Topic : [Corona19 Virus Access List Management System](https://github.com/MoonEeSun/Algorithms/tree/main/semester_project)
+* Used Data Structure : Linked List
+* Used Algorithms : Hash Table, Merge Sort
+* Option : Visitor mode / Administrator mode
+* Function : Add, Modify, Delete, Search(visitor code/name/data/region), Sort(name/visited data/region code), Print(specific/all visitor)  
